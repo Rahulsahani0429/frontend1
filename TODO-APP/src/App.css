@@ -7,14 +7,16 @@ body {
   display:flex;
   justify-content: center;
   align-items: center;
-  /* min-width: 50vw; */
+  /* min-width: 50vw; jslkjlks */
   min-height: 100vh;
+  
 
 }
 .app {
  
   max-width: 600px;
   margin: 48px auto;
+  text-align: center;
   background:black;
   padding: 24px;
   border-radius: 12px;
